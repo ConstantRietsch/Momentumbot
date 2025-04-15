@@ -1,7 +1,5 @@
 # Momentumbot
 
-Here's a comprehensive `README.md` file for your Kraken Momentum Trading Bot:
-
 ```markdown
 # Kraken Momentum Trading Bot
 
