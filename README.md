@@ -1,6 +1,5 @@
 # Momentumbot
 
-```markdown
 # Kraken Momentum Trading Bot
 
 An advanced trading bot that implements momentum-based strategies on the Kraken exchange with dynamic risk management, multi-timeframe analysis, and portfolio rebalancing.
